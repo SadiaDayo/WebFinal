@@ -1,0 +1,28 @@
+.title-section{
+  font-size: 6rem;
+
+}
+.sub-heading{
+  font-size: 4rem;
+}
+ .hero-section{
+  margin-top: 6rem;
+ }
+
+ .project-section{
+  margin-top: 6rem;
+  background-color: rgb(41, 38, 28)
+ }
+
+ 
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('./assets/Fonts/SFPRODISPLAYBOLD.OTF') format('truetype');
+
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1{
+  font-family: 'SF Pro Display';
+}

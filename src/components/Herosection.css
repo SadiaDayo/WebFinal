@@ -1,0 +1,21 @@
+/* styles.css */
+
+.div1{
+    height: 1720px;
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-size: xx-large;
+  }
+  .text{
+    margin-top: 5rem;
+    font-size: 100%;
+    -ms-text-size-adjust: none;
+  }
+  h1{
+    font-size: 200%;
+    border:thick
+  }
+  .gradient-three-shades {
+    background: linear-gradient(to right, #18ADE4 0%, #110915 25%, #EF8F2D 50%,#110915 75%, #AA58AA  100%);
+  }
